@@ -9,7 +9,7 @@ Works equally well for human operators and AI agents.
 ## Install
 
 ```bash
-git clone https://github.com/nightswatchhq/swissindexingknife
+git clone https://github.com/nuthatch-org/swissindexingknife
 cd swissindexingknife
 cargo build --release
 # binary at: ./target/release/sik
